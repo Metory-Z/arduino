@@ -1,1 +1,2 @@
 # arduino
+# learning & homework
