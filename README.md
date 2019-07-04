@@ -8,5 +8,6 @@
 - Morse.ino
 - keywords.txt
 
-# 以及小车文件
+# car文件夹存放小车文件
 - Drone.ino
+- car.jpg
