@@ -16,3 +16,8 @@
 - seven-segment_display.info
 - seven-segment_display.jpg
 - CD4511.md  //关于CD4511的3个口的说明
+
+# morse_new文件夹存放morse的函数方法
+- morse_new.jpg
+- morse_new_new.jpg
+- morse_new.ino
