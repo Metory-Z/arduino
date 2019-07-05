@@ -38,7 +38,7 @@
 
 - 通过串口输入数字, 在数码管显示对应数字
 
-  ![](.\img\car.jpg)
+  ![](img/car.jpg)
 
 ```c++
 // 小车及转向灯实例
@@ -148,7 +148,7 @@ void stop()
 
 ```
 
-![](.\img\seven-segment display.jpg)
+![](img/seven-segment display.jpg)
 
 ```c++
 // 七段数码管
@@ -210,7 +210,7 @@ void setPin(int pin,int v)
 
 - 撰写总结报告以及README文档
 
-  ![](.\img\morse_new.jpg)
+  ![](img/morse_new.jpg)
 
 ```c++
 // 函数形式的morse代码
