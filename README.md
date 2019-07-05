@@ -22,7 +22,7 @@
 - morse_new_new.jpg
 - morse_new.ino
 
-# seven-segment_display_new 文件夹存放七段数码管文件
+# seven-segment_display_new 文件夹存放四个七段数码管文件
 - seven-segment_display_new.ino
 - seven-segment_display_new.jpg
 - READ.md  //读不读都没有关系
